@@ -1,0 +1,49 @@
+.body {
+    background-image: url("https://raw.githubusercontent.com/Claudia-Scho/404-Page/master/Pictures/dropped-fail-failure-4091.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.button {
+    background-color: rgb(226, 220, 206);
+    border: none;
+    border-radius: 25px;
+    color: black;
+    padding: 30px 45px;
+    font-family: Century Gothic, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
+
+  .message {
+    width: 400px;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+    position: static;
+    float: right;
+    background: rgb(226, 220, 206,0.5);
+
+  }
+
+  h1 {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 70px;
+    color: black;
+  }
+
+  h2 {
+    font-family: Century Gothic, sans-serif;
+    font-size: 30px;
+    color: black;
+  }
+
+  p {
+    font-family: Century Gothic, sans-serif;
+    font-size: 25px;
+    color: black;
+  }
